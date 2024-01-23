@@ -1,3 +1,5 @@
+#Diffrent Component - 1. Form | 2. Show Data table
+
 # PROJECTNEWONE
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.0.
