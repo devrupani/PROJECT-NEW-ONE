@@ -1,0 +1,11 @@
+<form>
+    <label for="id">Id : </label>
+    <input type="number" name="id" id="id" [(ngModel)]="id">
+    <hr>
+    <label for="name">Name : </label>
+    <input type="text" name="name" [(ngModel)]="name" >
+    <hr>
+    <button type="button" (click)="addData()">Add Data</button>
+</form>
+
+<app-details [userDetail]="users"></app-details>
